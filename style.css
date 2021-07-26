@@ -17,6 +17,7 @@
 
 .navbar{
   display:flex;
+  
 }
 
 .nav-list{
@@ -49,3 +50,7 @@
   border: 2px solid grey;
   border-radius:9px;
 }
+.background{
+  background:rgb(0,0,0,0.7) url('../img/bg.jpg);
+    background-size:cover;
+    background-blend-mode: darker;
